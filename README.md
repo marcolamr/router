@@ -16,12 +16,12 @@ Pequeno, simples e descomplicado. O router é um componente de rotas PHP com abs
 ### Highlights
 
 - Simple installation (Instalação simples)
-- Works with standard php server ```bash php -S localhost:8000``` (Funciona com php server padrão)
+- Works with standard php server: php -S localhost:8000 (Funciona com php server padrão)
 - Composer ready and PSR-2 compliant (Pronto para o composer e compatível com PSR-2)
 
 ## Installation
 
-Uploader is available via Composer:
+Router is available via Composer:
 
 ```bash
 "marcolamr/router": "^1.0"
