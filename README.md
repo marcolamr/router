@@ -35,7 +35,7 @@ composer require marcolamr/router
 
 ## Documentation
 
-#### Getting Start:
+#### Getting Started:
 
 ```php
 <?php
